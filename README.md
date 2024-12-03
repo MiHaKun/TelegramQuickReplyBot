@@ -1,6 +1,8 @@
 # TelegramQuickReplyBot
 Telegram中支持按钮的自定义消息发送机器人。作为快速回复很方便。Telegram supports custom message-sending bots with buttons, making quick replies very convenient.
 
+[English Readme](https://github.com/MiHaKun/TelegramQuickReplyBot/blob/master/README.en.md)
+
 # 简介
 TG八卦水群的时候，总是希望有个快捷回复。同时，受限于Telegram的政策，想回复按钮消息基本是不可能的，是的，你是高级会员也没这功能。
 

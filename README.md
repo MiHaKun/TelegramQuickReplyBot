@@ -7,10 +7,12 @@ TG八卦水群的时候，总是希望有个快捷回复。同时，受限于Tel
 所以，就开发了一个简单的InlineBot，可以方便的恢复消息，顺便添加几个url按钮。美观大方。
 
 效果如图：
-![image](https://github.com/user-attachments/assets/a84d5b56-6111-4cbf-bf5b-0963a971c4fc)
+![image](https://github.com/user-attachments/assets/f6bfeec2-40fd-437e-8f2b-198b47a652e8)
+
 
 激发方式：
-![image](https://github.com/user-attachments/assets/36a2b55e-0338-4976-977e-17d5538eeaed)
+![image](https://github.com/user-attachments/assets/0ef91fcc-3f21-4f08-80b5-fbe76eb34429)
+
 
 大概的格式就是 @这个机器人 ， 空格，然后打入命令。命令可以自己配置（图例上，我使用show）
 
@@ -37,7 +39,8 @@ python -m QuickReplyBot
 
 # 快速回复短语配置
 参看文件内的 `quick_reply.json` 。
-![image](https://github.com/user-attachments/assets/ee61d6a4-5bb2-40ed-a5d7-e09b4f33a8e7)
+![image](https://github.com/user-attachments/assets/ef5d0c5b-4e75-4b82-92c5-c26a655c3cb4)
+
 
 效果可以看看本文档第一张图。
 

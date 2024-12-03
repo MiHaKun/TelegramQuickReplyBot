@@ -1,0 +1,30 @@
+[
+  {
+    "title": "简介",
+    "msg": "<b>米哈的群组频道信息</b>\n<b>群组：</b> https://t.me/DeveloperTeamGroup\n<b>频道：</b> https://t.me/TGBotDevelopment\n<b>网站：</b> https://miha.uk ",
+    "buttons": [
+      [
+        {
+          "text": "米哈的频道",
+          "url": "https://t.me/TGBotDevelopmen"
+        },
+        {
+          "text": "米哈的群组",
+          "url": "https://t.me/DeveloperTeamGroup"
+        }
+      ],
+      [
+        {
+          "text": "米哈的网站",
+          "url": "https://miha.uk"
+        }
+      ],
+      [
+        {
+          "text": "联络米哈",
+          "url": "https://t.me/MrMiHa"
+        }
+      ]
+    ]
+  }
+]

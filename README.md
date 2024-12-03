@@ -4,7 +4,7 @@ Telegram中支持按钮的自定义消息发送机器人。作为快速回复很
 # 简介
 TG八卦水群的时候，总是希望有个快捷回复。同时，受限于Telegram的政策，想回复按钮消息基本是不可能的，是的，你是高级会员也没这功能。
 
-所以，就开发了一个简单的InlineBot，可以方便的恢复消息，顺便添加几个url按钮。美观大方。
+所以，就开发了一个简单的InlineBot，可以方便的回复消息，顺便添加几个url按钮。美观大方。
 
 效果如图：
 ![image](https://github.com/user-attachments/assets/f6bfeec2-40fd-437e-8f2b-198b47a652e8)

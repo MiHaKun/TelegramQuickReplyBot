@@ -46,6 +46,12 @@ python -m QuickReplyBot
 
 效果可以看看本文档第一张图。
 
+很多伙计懒得配置相对复杂的按钮。这里提供个快速工具：
+
+可以访问： https://miha.uk/tools/QuickReplyEditor
+![image](https://github.com/user-attachments/assets/74744372-fc8b-4f8b-b694-222c31bd0684)
+
+
 
 # ToDoList
 - [ ] 增加图片和视频消息
